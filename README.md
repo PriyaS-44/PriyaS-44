@@ -4,7 +4,8 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me 
+- 📫 How to reach me topriyasuresh@gmail.com
+- 😃 Pronouns you can give one-- 
 
 
 
