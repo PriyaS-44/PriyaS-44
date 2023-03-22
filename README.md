@@ -1,8 +1,8 @@
 # Priya Suresh
 ##Hi there 😊
 
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in the field of Data Science 
+- 🌱 I’m currently learning new skills to build a strong portfolio.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me topriyasuresh@gmail.com
 - 😃 Pronouns you can give one-- 
